@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://api.nexadev.my.id/api/:path*"
+      "destination": "https://api-nanzz.my.id/:path*"
     }
   ]
 }
