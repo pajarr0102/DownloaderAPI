@@ -10,10 +10,9 @@
    CONFIG
 ============================================================ */
 const CONFIG = {
-  API_URL: '/api/aio',
+  API_URL: 'https://api-nanzz.my.id/docs/api/donwloader/all-in-one.php',
   TOAST_DURATION: 3500,
 };
-
 /* ============================================================
    PLATFORM DETECTION
 ============================================================ */
